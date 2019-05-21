@@ -1,0 +1,93 @@
+{
+    "dir": "ltr",
+    "lang": "en-US",
+    "name": "PWA Test",
+    "scope": "/",
+    "display": "standalone",
+    "start_url": "http://localhost:8080/pwa",
+    "short_name": "PWA Test",
+    "theme_color": "transparent",
+    "description": "",
+    "orientation": "any",
+    "background_color": "transparent",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "generated": true,
+    "icons": [{
+            "src": "image/logo.png",
+            "sizes": "44x44"
+        },
+        {
+            "src": "image/logo.png",
+            "sizes": "48x48"
+        },
+        {
+            "src": "image/logo.png",
+            "sizes": "1240x600"
+        },
+        {
+            "src": "image/logo.png",
+            "sizes": "300x300"
+        },
+        {
+            "src": "image/logo.png",
+            "sizes": "150x150"
+        },
+        {
+            "src": "image/logo.png",
+            "sizes": "88x88"
+        },
+        {
+            "src": "image/logo.png",
+            "sizes": "24x24"
+        },
+        {
+            "src": "image/logo.png",
+            "sizes": "50x50"
+        },
+        {
+            "src": "image/logo.png",
+            "sizes": "620x300"
+        },
+        {
+            "src": "image/logo.png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "image/logo.png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "image/logo.png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "image/logo.png",
+            "sizes": "72x72"
+        },
+        {
+            "src": "image/logo.png",
+            "sizes": "36x36"
+        },
+        {
+            "src": "image/logo.png",
+            "sizes": "1024x1024"
+        },
+        {
+            "src": "image/logo.png",
+            "sizes": "180x180"
+        },
+        {
+            "src": "image/logo.png",
+            "sizes": "152x152"
+        },
+        {
+            "src": "image/logo.png",
+            "sizes": "120x120"
+        },
+        {
+            "src": "image/logo.png",
+            "sizes": "76x76"
+        }
+    ]
+}
